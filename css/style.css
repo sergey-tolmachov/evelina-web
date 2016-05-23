@@ -7,17 +7,20 @@
 	-webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.4);
 	-moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.4);
 	box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.4);
+	z-index: 9999999;
 }
 
 .page-name {
-	display: inline-block;
 	font-family: "Roboto-Medium";
 	font-size: 16px;
 	text-transform: uppercase;
 	color: white;
 	padding: 22px 0px 22px 72px;
 	letter-spacing: 1px;
+	position: absolute;
+	display: none;
 }
+
 
 nav li {
 	display: inline-block;
@@ -88,20 +91,90 @@ li {
 	padding: 18px 18px;
 }
 
+.mail-circle:hover {
+	background-color: #BF3D3D;
+	-webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.4);
+	box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.4);
+	transition: 0.3s;
+}
+
+.about-me-container {
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 125px 72px 0px 72px;
+	text-align: center;
+}
+
+.about-me-title {
+	display: inline-block;
+	width: 100%;
+	font-family: "Roboto-Medium";
+	font-size: 24px;
+	color: #212121;
+	text-align: center;
+	padding: 50px 72px 0px 72px;	
+}
+
+.about-me-text {
+	display: inline-block;
+	width: 100%;
+	font-family: "Roboto-Light";
+	font-size: 16px;
+	color: #212121;
+	text-align: center;
+	padding: 25px 72px 25px 72px;	
+}
+
+.collapse {
+	display: none;
+	padding-top: 0px;
+}
+
+.btn-primary {
+	background-color: white;
+	border: 1px solid #B6B6B6; 
+	border-radius: 50px;
+	color: #B6B6B6;
+	margin: 50px 0px;
+	height: 48px;
+	font-family: "Roboto-Light";
+	font-size: 16px;
+	padding: 16px 32px;
+	line-height: 16px;
+}
+
+.btn-primary:hover {
+	background-color: white;
+	border: 1px solid #212121; 
+	border-radius: 50px;
+	color: #212121;
+	margin: 50px 0px;
+	height: 48px;
+	font-family: "Roboto-Light";
+	font-size: 16px;
+	padding: 16px 32px;
+	line-height: 16px;
+}
 
 
-
-
-
-
+.skills-container {
+	display: inline-block;
+	width: 100%;
+	height: 600px;
+	background-color: #B6B6B6;
+	margin-top: 25px;
+}
 
 
 
 
 
 @media screen and (max-width: 1024px) {
-	
-
+	iframe {
+		width: 100%;
+	}
 }
 
 /*Fonts Embed*/
