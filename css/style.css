@@ -45,17 +45,17 @@ li {
 	letter-spacing: 1px;
 }
 
-nav, a:hover {
+#menu a:hover {
 	color: #3D227F;
 	text-decoration: none;
 }
 
-nav, a:active {
+#menu a:active {
 	color: #3D227F;
 	text-decoration: none;
 }
 
-nav, a:focus {
+#menu a:focus {
 	color: #3D227F;
 	text-decoration: none;
 }
