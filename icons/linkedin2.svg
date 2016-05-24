@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29.999 30" style="enable-background:new 0 0 29.999 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F0F0;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{display:none;clip-path:url(#SVGID_2_);}
+	.st3{opacity:0.5;clip-path:url(#SVGID_2_);fill:#1D1D1B;}
+	.st4{display:none;}
+	.st5{fill:#58595D;}
+	.st6{opacity:0.6;fill:url(#SVGID_3_);}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#2A2A2C;}
+	.st9{fill:#D73534;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st11{fill:#EDEDED;}
+	.st12{fill:#BF835F;}
+	.st13{fill:#2897D4;}
+	.st14{fill:#36639D;}
+	.st15{fill:#314D79;}
+	.st16{opacity:0.4;fill:url(#SVGID_8_);}
+	.st17{fill:none;stroke:#D73534;stroke-miterlimit:10;}
+	.st18{opacity:0.2;fill:#58595D;}
+	.st19{fill:#DADADA;}
+	.st20{display:inline;}
+	.st21{opacity:0.2;fill:#E50051;}
+</style>
+<g id="BG">
+</g>
+<g id="wirefrime">
+	<path class="st7" d="M27.78,0H2.213C0.992,0,0,0.968,0,2.163v25.672C0,29.03,0.992,30,2.213,30H27.78
+		c1.224,0,2.219-0.97,2.219-2.165V2.163C29.999,0.968,29.004,0,27.78,0z M8.899,25.563H4.446V11.247h4.453V25.563z M6.673,9.291
+		c-1.429,0-2.581-1.156-2.581-2.581c0-1.424,1.152-2.58,2.581-2.58c1.423,0,2.579,1.156,2.579,2.58
+		C9.252,8.135,8.097,9.291,6.673,9.291z M25.564,25.563h-4.448v-6.962c0-1.66-0.029-3.796-2.313-3.796
+		c-2.315,0-2.668,1.809-2.668,3.677v7.081H11.69V11.247h4.265v1.957h0.061c0.593-1.125,2.046-2.312,4.211-2.312
+		c4.504,0,5.337,2.964,5.337,6.82V25.563z"/>
+</g>
+<g id="Grids" class="st4">
+</g>
+</svg>
